@@ -1,3 +1,4 @@
+
 mcl_anvils:anvil 0 0 0
 mcl_beds:bed_magenta_bottom 0 0 0
 mcl_beds:bed_magenta_top 0 0 0
@@ -28,13 +29,14 @@ mcl_core:birchleaves 0 0 0
 mcl_core:birchtree 0 0 0
 mcl_core:bone_block 0 0 0
 mcl_core:cactus 0 0 0
-mcl_core:clay 0 0 0
+mcl_core:clay 134 134 134
 mcl_core:coarse_dirt 0 0 0
 mcl_core:cobble 0 0 0
 mcl_core:cobweb 0 0 0
 mcl_core:deadbush 0 0 0
 mcl_core:diorite 0 0 0
-mcl_core:dirt 0 0 0
+mcl_core:diorite_smooth 0 0 0
+mcl_core:dirt 118 109 114
 mcl_core:dirt_with_grass 0 0 0
 mcl_core:dirt_with_grass_snow 0 0 0
 mcl_core:glass 0 0 0
@@ -61,7 +63,7 @@ mcl_core:snow 0 0 0
 mcl_core:spruceleaves 0 0 0
 mcl_core:sprucetree 0 0 0
 mcl_core:sprucewood 0 0 0
-mcl_core:stone 0 0 0
+mcl_core:stone 120 113 110
 mcl_core:stonebrick 0 0 0
 mcl_core:stone_with_coal 0 0 0
 mcl_core:stone_with_diamond 0 0 0
@@ -76,6 +78,7 @@ mcl_core:water_flowing 0 0 0
 mcl_core:water_source 0 0 0
 mcl_core:wood 0 0 0
 mcl_crafting_table:crafting_table 0 0 0
+mcl_dispensers:dispenser 0 0 0
 mcl_doors:birch_door_b_1 0 0 0
 mcl_doors:birch_door_t_1 0 0 0
 mcl_doors:spruce_door_b_1 0 0 0
@@ -107,6 +110,7 @@ mcl_farming:wheat_6 0 0 0
 mcl_farming:wheat_7 0 0 0
 mcl_fences:fence 0 0 0
 mcl_fences:fence_gate 0 0 0
+mcl_fences:nether_brick_fence 0 0 0
 mcl_fences:spruce_fence 0 0 0
 mcl_fences:spruce_fence_gate 0 0 0
 mcl_fire:eternal_fire 0 0 0
@@ -173,12 +177,15 @@ mcl_stairs:stair_cobble 0 0 0
 mcl_stairs:stair_sandstone 0 0 0
 mcl_stairs:stair_sprucewood 0 0 0
 mcl_stairs:stair_stonebrick 0 0 0
+mcl_stairs:stair_stone_rough 0 0 0
 mcl_stairs:stair_wood 0 0 0
 mcl_tnt:tnt 0 0 0
 mcl_torches:torch 0 0 0
 mcl_torches:torch_wall 0 0 0
 mcl_wool:black_carpet 0 0 0
 mcl_wool:white_carpet 0 0 0
+mclx_fences:nether_brick_fence_gate 0 0 0
+mclx_fences:nether_brick_fence_gate_open 0 0 0
 mesecons_button:button_wood_off 0 0 0
 mesecons_pressureplates:pressure_plate_sprucewood_off 0 0 0
 mesecons_pressureplates:pressure_plate_stone_off 0 0 0
