@@ -180,7 +180,7 @@ mcl_stairs:stair_stonebrick 0 0 0
 mcl_stairs:stair_stone_rough 0 0 0
 mcl_stairs:stair_wood 0 0 0
 mcl_tnt:tnt 0 0 0
-mcl_torches:torch 0 0 0
+mcl_torches:torch 255 127 0
 mcl_torches:torch_wall 0 0 0
 mcl_wool:black_carpet 0 0 0
 mcl_wool:white_carpet 0 0 0
