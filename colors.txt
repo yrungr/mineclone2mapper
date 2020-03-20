@@ -34,8 +34,8 @@ mcl_core:coarse_dirt 0 0 0
 mcl_core:cobble 89 86 84
 mcl_core:cobweb 0 0 0
 mcl_core:deadbush 0 0 0
-mcl_core:diorite 0 0 0
-mcl_core:diorite_smooth 0 0 0
+mcl_core:diorite 157 154 152
+mcl_core:diorite_smooth 157 154 152
 mcl_core:dirt 110 85 71
 mcl_core:dirt_with_grass 64 111 26
 mcl_core:dirt_with_grass_snow 127 132 161
