@@ -14,9 +14,9 @@ mcl_chests:chest_right 0 0 0
 mcl_colorblocks:hardened_clay 69 42 45
 mcl_colorblocks:hardened_clay_blue 0 0 0
 mcl_colorblocks:hardened_clay_brown 0 0 0
-mcl_colorblocks:hardened_clay_orange 0 0 0
+mcl_colorblocks:hardened_clay_orange 84 39 33
 mcl_colorblocks:hardened_clay_red 83 30 30
-mcl_colorblocks:hardened_clay_silver 0 0 0
+mcl_colorblocks:hardened_clay_silver 81 66 76
 mcl_colorblocks:hardened_clay_white 0 0 0
 mcl_colorblocks:hardened_clay_yellow 101 66 25
 mcl_core:acacialeaves 0 0 0
@@ -52,9 +52,9 @@ mcl_core:leaves 0 0 0
 mcl_core:mossycobble 0 0 0
 mcl_core:obsidian 0 0 0
 mcl_core:podzol 0 0 0
-mcl_core:redsand 0 0 0
+mcl_core:redsand 127 70 71
 mcl_core:reeds 0 0 0
-mcl_core:sand 0 0 0
+mcl_core:sand 133 101 89
 mcl_core:sandstone 0 0 0
 mcl_core:sandstonecarved 0 0 0
 mcl_core:sandstonesmooth 0 0 0
