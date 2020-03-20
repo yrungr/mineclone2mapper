@@ -43,7 +43,7 @@ mcl_core:glass 0 0 0
 mcl_core:glass_magenta 0 0 0
 mcl_core:granite 0 0 0
 mcl_core:granite_smooth 0 0 0
-mcl_core:grass_path 0 0 0
+mcl_core:grass_path 64 111 26
 mcl_core:gravel 45 41 52
 mcl_core:ladder 0 0 0
 mcl_core:lava_flowing 0 0 0
@@ -120,8 +120,8 @@ mcl_flowers:azure_bluet 0 0 0
 mcl_flowers:dandelion 0 0 0
 mcl_flowers:double_fern 0 0 0
 mcl_flowers:double_fern_top 0 0 0
-mcl_flowers:double_grass 0 0 0
-mcl_flowers:double_grass_top 0 0 0
+mcl_flowers:double_grass 64 111 26
+mcl_flowers:double_grass_top 64 111 26
 mcl_flowers:fern 0 0 0
 mcl_flowers:lilac 0 0 0
 mcl_flowers:lilac_top 0 0 0
@@ -133,7 +133,7 @@ mcl_flowers:rose_bush 0 0 0
 mcl_flowers:rose_bush_top 0 0 0
 mcl_flowers:sunflower 0 0 0
 mcl_flowers:sunflower_top 0 0 0
-mcl_flowers:tallgrass 0 0 0
+mcl_flowers:tallgrass 64 111 26
 mcl_flowers:tulip_orange 0 0 0
 mcl_flowers:tulip_pink 0 0 0
 mcl_flowers:tulip_red 0 0 0
