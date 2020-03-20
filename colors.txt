@@ -11,14 +11,14 @@ mcl_cauldrons:cauldron 0 0 0
 mcl_chests:chest 0 0 0
 mcl_chests:chest_left 0 0 0
 mcl_chests:chest_right 0 0 0
-mcl_colorblocks:hardened_clay 0 0 0
+mcl_colorblocks:hardened_clay 69 42 45
 mcl_colorblocks:hardened_clay_blue 0 0 0
 mcl_colorblocks:hardened_clay_brown 0 0 0
 mcl_colorblocks:hardened_clay_orange 0 0 0
-mcl_colorblocks:hardened_clay_red 0 0 0
+mcl_colorblocks:hardened_clay_red 83 30 30
 mcl_colorblocks:hardened_clay_silver 0 0 0
 mcl_colorblocks:hardened_clay_white 0 0 0
-mcl_colorblocks:hardened_clay_yellow 0 0 0
+mcl_colorblocks:hardened_clay_yellow 101 66 25
 mcl_core:acacialeaves 0 0 0
 mcl_core:acaciatree 0 0 0
 mcl_core:acaciawood 0 0 0
@@ -36,7 +36,7 @@ mcl_core:cobweb 0 0 0
 mcl_core:deadbush 0 0 0
 mcl_core:diorite 0 0 0
 mcl_core:diorite_smooth 0 0 0
-mcl_core:dirt 118 109 114
+mcl_core:dirt 110 85 71
 mcl_core:dirt_with_grass 64 111 26
 mcl_core:dirt_with_grass_snow 0 0 0
 mcl_core:glass 0 0 0
@@ -64,7 +64,7 @@ mcl_core:spruceleaves 0 0 0
 mcl_core:sprucetree 0 0 0
 mcl_core:sprucewood 0 0 0
 mcl_core:stone 120 113 110
-mcl_core:stonebrick 0 0 0
+mcl_core:stonebrick 47 42 43
 mcl_core:stone_with_coal 0 0 0
 mcl_core:stone_with_diamond 0 0 0
 mcl_core:stone_with_emerald 0 0 0
@@ -113,7 +113,7 @@ mcl_fences:fence_gate 0 0 0
 mcl_fences:nether_brick_fence 0 0 0
 mcl_fences:spruce_fence 0 0 0
 mcl_fences:spruce_fence_gate 0 0 0
-mcl_fire:eternal_fire 0 0 0
+mcl_fire:eternal_fire 202 119 37
 mcl_fire:fire 0 0 0
 mcl_flowers:allium 0 0 0
 mcl_flowers:azure_bluet 0 0 0
@@ -157,7 +157,7 @@ mcl_nether:soul_sand 0 0 0
 mcl_ocean:kelp_gravel 0 0 0
 mcl_ocean:kelp_sand 0 0 0
 mcl_ocean:seagrass_gravel 0 0 0
-mcl_ocean:seagrass_redsand 0 0 0
+mcl_ocean:seagrass_redsand 126 68 70
 mcl_ocean:seagrass_sand 0 0 0
 mcl_portals:portal 0 0 0
 mcl_signs:standing_sign 0 0 0
